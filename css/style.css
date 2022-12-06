@@ -1,0 +1,13 @@
+:root{
+    --orange: #E54316;
+    --brown: #3A0A14;
+    --white: #ddd9ce;
+}
+
+.navbar{
+    background-color: var(--orange)!important;
+}
+
+#produtos{
+    background-color: var(--white);
+}
